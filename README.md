@@ -1,4 +1,4 @@
-# Menu de navegacao animado
+# Menu de navegação animado
 
 ## Menu Fechado
 ![image](https://user-images.githubusercontent.com/49465265/181403558-bfa8fa6e-c98c-42a4-9487-1942989f6a79.png)
