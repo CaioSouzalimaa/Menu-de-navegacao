@@ -8,3 +8,5 @@
 
 ## Link do GitHub Page para visualização
 https://caiosouzalimaa.github.io/Menu-de-navegacao/
+
+#### As imagens utilizadas são geradas aleatoriamente pelo site https://unsplash.com/
